@@ -1,5 +1,5 @@
 # tuffy-bay
-make sure to import "tuffy-bay.sql" file before using website locally
+make sure to import "tuffy-bay.sql" file before using website locally.
 
 TODO: 
 form input restrictions (javascript) 
